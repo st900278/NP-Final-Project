@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>offline-icon.png</file>
+        <file>online-icon.png</file>
+        <file>test33.jpeg</file>
+    </qresource>
+</RCC>
